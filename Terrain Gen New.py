@@ -1,4 +1,4 @@
-# Terrain Generator 
+# Terrain Generator By Rory Gardner
 
 import maya.cmds as cmds
 import random
